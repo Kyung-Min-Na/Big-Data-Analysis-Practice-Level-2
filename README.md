@@ -12,7 +12,7 @@
 ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/e505b182-faf9-4f2c-b868-69b4c20b023f)
 
 ------------------------------------------------------------------------------------
-1. R(4.1.3) 설치
+## 1. R(4.1.3) 설치
 
    ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/67ca54cc-121c-4487-ba7f-b4e398004777)
 
@@ -21,7 +21,7 @@
   *64-bit or 32-bit중 하나만 선택(64-bit으로 진행)
 
 
-2. JAVA 설치
+## 2. JAVA 설치
 
   ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/c5d57388-737c-4281-a155-b78397bc444c)
 
@@ -29,7 +29,7 @@
   Windows 오프라인 (64비트) - 설치 후 관리자 권한으로 실행
 
 
-3. KoNLP 패키지 설치
+## 3. KoNLP 패키지 설치
 
   ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/888bae8b-3be0-470f-9dea-2aca4f008d55)
 
