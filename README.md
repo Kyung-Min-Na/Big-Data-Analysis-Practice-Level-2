@@ -13,7 +13,7 @@
 
 ------------------------------------------------------------------------------------
 1. R(4.1.3) 설치
-  ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/67ca54cc-121c-4487-ba7f-b4e398004777)
+   ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/67ca54cc-121c-4487-ba7f-b4e398004777)
 
   https://cran.yu.ac.kr/bin/windows/base/old/4.1.3/
   R-4.1.3-win.exe - 관리자 권한으로 실행
