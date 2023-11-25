@@ -17,7 +17,9 @@
    ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/67ca54cc-121c-4487-ba7f-b4e398004777)
 
   https://cran.yu.ac.kr/bin/windows/base/old/4.1.3/
+  
   R-4.1.3-win.exe - 관리자 권한으로 실행
+  
   *64-bit or 32-bit중 하나만 선택(64-bit으로 진행)
 
 
@@ -26,6 +28,7 @@
   ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/c5d57388-737c-4281-a155-b78397bc444c)
 
   https://www.java.com/ko/download/manual.jsp
+  
   Windows 오프라인 (64비트) - 설치 후 관리자 권한으로 실행
 
 
@@ -48,6 +51,7 @@
   #Step 3. KoNLP 설치
 
   remotes::install_github('haven-jeon/KoNLP', upgrade = "never", INSTALL_opts=c("--no-multiarch"))
+  
   library(KoNLP)
 
 
@@ -56,6 +60,7 @@
   ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/49354df8-4088-490f-adf4-ac9e47b5b5f3)
 
   txt <- '나는 사과와 바나나가 좋아요'
+  
   extractNoun(txt)
 
   
