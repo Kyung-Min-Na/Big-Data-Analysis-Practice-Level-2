@@ -34,13 +34,16 @@
   ![image](https://github.com/Kyung-Min-Na/Big-Data-Analysis-Practice-Level-2/assets/133650591/888bae8b-3be0-470f-9dea-2aca4f008d55)
 
   1번에 설치한 R(4.1.3)을 관리자 권한으로 실행
+  
   #Step 1. 의존성 패키지 설치
 
   install.packages(c("cli","hash", "tau", "Sejong", "RSQLite", "devtools", "bit", "rex", "lazyeval", "htmlwidgets", "crosstalk", "promises", "later", "sessioninfo", "xopen", "bit64", "blob", "DBI", "memoise", "plogr", "covr", "DT", "rcmdcheck", "rversions"), type = "binary")
 
+
   #Step 2. github 버전 설치
 
   install.packages("remotes")
+
 
   #Step 3. KoNLP 설치
 
